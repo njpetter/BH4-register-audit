@@ -1,0 +1,31 @@
+entry_id,date,affiliation,contact_type,group_size,raw_purpose,room_no,in_time,out_time
+1,02-11-26,IIITA,ext_2149,1,Safai / General,,10:30 AM,4:00 PM
+2,2/11/26,IIITA,ext_2149,1,Cooler Tools,1005,11:07 AM,11:32 AM
+3,2/11/26,IIITA,ext_2149,3,Cooler Work,,4:00 PM,5:10 PM
+4,3/11/26,IIITA,ext_2149,1,Carpenter Tools,1161,10:30 AM,5:10 PM
+5,4/11/26,IIITA,external_mobile,1,Electrician,,3:50 PM,4:25 PM
+6,5/11/26,IIITA,external_mobile,1,Cooler Maintenance,1245,10:30 AM,10:50 AM
+7,05/11/26,IIITA,ext_2149,1,AC Work,,12:15 PM,1:10 PM
+8,9-11-26,IIITA,ext_2149,2,Carpenter,1023,3:07 PM,5:10 PM
+9,10/11/26,IIITA,external_mobile,1,Maintenance,,4:10 PM,4:55 PM
+10,11/11/26,IIITA,ext_2149,3,Cooler,,10:40 AM,12:55 PM
+11,11/11/26,IIITA,ext_2149,3,Electrician,,10:40 AM,11:00 AM
+12,12-11-26,IIITA,external_mobile,1,Cooler,,8:15 AM,12:45 PM
+13,12/11/26,IIITA,ext_2149,1,Cooler,,10:15 AM,12:00 PM
+14,13-11-26,IIITA,ext_2149,1,Cooler,,10:50 AM,11:45 AM
+15,13-11-26,IIITA,external_mobile,1,Cooler,,10:50 AM,4:15 PM
+16,13-11-26,IIITA,ext_2149,1,Carpenter,,9:15 AM,2:05 PM
+17,14/11/26,IIITA,ext_2149,1,Electrician,,10:30 AM,1:10 PM
+18,15/11/26,IIITA,ext_2149,3,Cooler,1318,11:30 AM,11:50 AM
+19,16-11-26,IIITA,ext_2149,2,Cooler,,11:40 AM,12:40 PM
+20,16-11-26,IIITA,ext_2149,3,Cooler Maintenance,,12:25 PM,5:10 PM
+21,16/11/26,IIITA,ext_2149,2,Cooler,,10:30 AM,5:10 PM
+22,16-11-26,Jhalwa,ext_2149,1,Kapda Dhulai,,1:00 PM,4:30 PM
+23,17/11/26,IIITA,ext_2149,1,Carpenter,1127,10:25 AM,12:45 PM
+24,17/11/26,IIITA,ext_2149,1,Plumber,1516,3:00 PM,5:15 PM
+25,18/11/26,IIITA Jhalwa,ext_2160,1,Tools Mechanic,1020,7:40 AM,7:55 AM
+26,18/11/26,IIITA,external_mobile,1,Tools Electrician,All Room,6:35 PM,7:20 PM
+27,19/11/26,IIITA,ext_2149,1,Carpenter,1259,11:00 AM,12:25 PM
+28,19/11/26,Bamrauli,external_mobile,1,Milne Hetu (Visitor),1161,5:35 PM,6:40 PM
+29,20-11-26,Pipalgaon,,1,Kapda Dhulai,,7:10 PM,
+30,20-11-26,IIITA Jhalwa,ext_2149,1,Safai / Cleaning,,3:15 PM,4:00 PM

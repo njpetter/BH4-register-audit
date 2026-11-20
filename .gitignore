@@ -1,0 +1,8 @@
+# Local tooling & Python artifacts
+repomix-output*.xml
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
